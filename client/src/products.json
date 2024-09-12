@@ -1,0 +1,214 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone X",
+        "price": 599.99,
+        "category": "Electronics",
+        "description": "Latest model smartphone with advanced features."
+      },
+      {
+        "id": 2,
+        "name": "Laptop Pro",
+        "price": 1299.99,
+        "category": "Electronics",
+        "description": "High-performance laptop for professionals."
+      },
+      {
+        "id": 3,
+        "name": "Wireless Earbuds",
+        "price": 129.99,
+        "category": "Electronics",
+        "description": "True wireless earbuds with noise cancellation."
+      },
+      {
+        "id": 4,
+        "name": "4K Smart TV",
+        "price": 799.99,
+        "category": "Electronics",
+        "description": "55-inch 4K resolution smart TV with HDR."
+      },
+      {
+        "id": 5,
+        "name": "Coffee Maker",
+        "price": 79.99,
+        "category": "Home Appliances",
+        "description": "Programmable coffee maker with thermal carafe."
+      },
+      {
+        "id": 6,
+        "name": "Blender",
+        "price": 49.99,
+        "category": "Home Appliances",
+        "description": "Powerful blender for smoothies and food processing."
+      },
+      {
+        "id": 7,
+        "name": "Toaster Oven",
+        "price": 89.99,
+        "category": "Home Appliances",
+        "description": "Versatile toaster oven with multiple cooking functions."
+      },
+      {
+        "id": 8,
+        "name": "Running Shoes",
+        "price": 119.99,
+        "category": "Sports",
+        "description": "Lightweight running shoes with superior cushioning."
+      },
+      {
+        "id": 9,
+        "name": "Yoga Mat",
+        "price": 29.99,
+        "category": "Sports",
+        "description": "Non-slip yoga mat for home or studio practice."
+      },
+      {
+        "id": 10,
+        "name": "Dumbbells Set",
+        "price": 149.99,
+        "category": "Sports",
+        "description": "Adjustable dumbbells set for home workouts."
+      },
+      {
+        "id": 11,
+        "name": "Novel: 'The Midnight Library'",
+        "price": 14.99,
+        "category": "Books",
+        "description": "Bestselling novel about life's infinite possibilities."
+      },
+      {
+        "id": 12,
+        "name": "Cookbook: 'Vegan Delights'",
+        "price": 24.99,
+        "category": "Books",
+        "description": "Collection of delicious vegan recipes for all occasions."
+      },
+      {
+        "id": 13,
+        "name": "Desk Lamp",
+        "price": 39.99,
+        "category": "Home Decor",
+        "description": "Adjustable LED desk lamp with multiple brightness levels."
+      },
+      {
+        "id": 14,
+        "name": "Wall Clock",
+        "price": 34.99,
+        "category": "Home Decor",
+        "description": "Modern design wall clock with silent movement."
+      },
+      {
+        "id": 15,
+        "name": "Throw Pillow Set",
+        "price": 49.99,
+        "category": "Home Decor",
+        "description": "Set of 4 decorative throw pillows in assorted colors."
+      },
+      {
+        "id": 16,
+        "name": "Portable Charger",
+        "price": 29.99,
+        "category": "Electronics",
+        "description": "High-capacity portable charger for mobile devices."
+      },
+      {
+        "id": 17,
+        "name": "Digital Camera",
+        "price": 449.99,
+        "category": "Electronics",
+        "description": "Compact digital camera with 4K video capability."
+      },
+      {
+        "id": 18,
+        "name": "Air Purifier",
+        "price": 199.99,
+        "category": "Home Appliances",
+        "description": "HEPA air purifier for cleaner indoor air."
+      },
+      {
+        "id": 19,
+        "name": "Electric Kettle",
+        "price": 39.99,
+        "category": "Home Appliances",
+        "description": "Fast-boiling electric kettle with temperature control."
+      },
+      {
+        "id": 20,
+        "name": "Fitness Tracker",
+        "price": 89.99,
+        "category": "Electronics",
+        "description": "Advanced fitness tracker with heart rate monitoring."
+      },
+      {
+        "id": 21,
+        "name": "Backpack",
+        "price": 59.99,
+        "category": "Fashion",
+        "description": "Durable backpack with multiple compartments for daily use."
+      },
+      {
+        "id": 22,
+        "name": "Sunglasses",
+        "price": 129.99,
+        "category": "Fashion",
+        "description": "Polarized sunglasses with UV protection."
+      },
+      {
+        "id": 23,
+        "name": "Wireless Mouse",
+        "price": 24.99,
+        "category": "Electronics",
+        "description": "Ergonomic wireless mouse for improved productivity."
+      },
+      {
+        "id": 24,
+        "name": "Plant Stand",
+        "price": 44.99,
+        "category": "Home Decor",
+        "description": "Multi-tier plant stand for indoor or outdoor use."
+      },
+      {
+        "id": 25,
+        "name": "Shower Caddy",
+        "price": 19.99,
+        "category": "Home",
+        "description": "Rustproof shower caddy with multiple compartments."
+      },
+      {
+        "id": 26,
+        "name": "Cutting Board Set",
+        "price": 34.99,
+        "category": "Kitchen",
+        "description": "Set of 3 bamboo cutting boards in different sizes."
+      },
+      {
+        "id": 27,
+        "name": "Hand Mixer",
+        "price": 29.99,
+        "category": "Home Appliances",
+        "description": "5-speed hand mixer for baking and cooking."
+      },
+      {
+        "id": 28,
+        "name": "Bluetooth Speaker",
+        "price": 79.99,
+        "category": "Electronics",
+        "description": "Portable Bluetooth speaker with 20-hour battery life."
+      },
+      {
+        "id": 29,
+        "name": "Hiking Backpack",
+        "price": 89.99,
+        "category": "Sports",
+        "description": "Lightweight hiking backpack with hydration system."
+      },
+      {
+        "id": 30,
+        "name": "Smart Doorbell",
+        "price": 149.99,
+        "category": "Electronics",
+        "description": "Wi-Fi enabled smart doorbell with video camera."
+      }
+    ]
+  }
